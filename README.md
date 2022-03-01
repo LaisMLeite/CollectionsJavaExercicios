@@ -1,9 +1,6 @@
 # CollectionsJavaSet
-Repositório criado para salvar possíveis soluções de exercícios em Java utilizando Set.
+Repositório criado para salva solução de exemplo de exercício em Java utilizando Set.
 
-Exercicio 1:
-
-/*
 Crie uma conjunto contendo as cores do arco-íris e:
 a) Exiba todas as cores o arco-íris uma abaixo da outra;
 b) A quantidade de cores que o arco-íris tem;
@@ -13,4 +10,4 @@ e) Exiba todas as cores que começam com a letra ”v”;
 f) Remova todas as cores que não começam com a letra “v”;
 g) Limpe o conjunto;
 h) Confira se o conjunto está vazio;
- */
+
