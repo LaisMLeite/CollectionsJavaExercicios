@@ -1,5 +1,5 @@
 # CollectionsJavaSet
-Repositório criado para salvar solução de exemplo de exercício em Java utilizando Set.
+Repositório criado para alocar código de exercício resolvido de Set/Collections.
 
 Crie uma classe LinguagemFavorita que possua os atributos nome, anoDeCriacao e IDE.
 Em seguida, crie um conjunto com 3 linguagens e faça um programa que ordene esse conjunto por:
